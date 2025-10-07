@@ -8,6 +8,7 @@ import Services from "@/component/Services";
 import WorkingProcess from "@/component/WorkingProcess";
 import Team from "@/component/Team"
 import Image from "next/image";
+import Footer from "@/component/Footer";
 
 export default function Home() {
   return (
@@ -74,6 +75,7 @@ export default function Home() {
         <CaseStudies/>
         <WorkingProcess/>
         <Team />
+        <Footer/>
       </main>
     </div>
   );
