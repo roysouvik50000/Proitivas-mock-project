@@ -6,6 +6,7 @@ import Navbar from "@/component/Navbar";
 import Proposal from "@/component/Proposal";
 import Services from "@/component/Services";
 import WorkingProcess from "@/component/WorkingProcess";
+import Team from "@/component/Team"
 import Image from "next/image";
 
 export default function Home() {
@@ -72,6 +73,7 @@ export default function Home() {
         <Proposal/>
         <CaseStudies/>
         <WorkingProcess/>
+        <Team />
       </main>
     </div>
   );

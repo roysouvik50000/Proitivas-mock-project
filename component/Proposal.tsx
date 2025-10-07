@@ -6,7 +6,7 @@ const Proposal = () => {
                 <h1 className="my-7 text-3xl">Let’s make things happen</h1>
                 <p className="mb-3.5">Contact us today to learn more about how our digital <br /> marketing services can help your business grow and <br /> succeed online.</p>
                 <button className="h-16 w-56 border-2 border-black rounded-2xl cursor-pointer">
-                    Request a quote
+                    Get your free proposal
                 </button>
             </div>
             <div className="right">
