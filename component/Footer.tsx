@@ -13,7 +13,7 @@ const Footer = () => {
                     <p>Moonstone City, Stardust State 12345</p>
                 </div>
                 <div className="flex bg-white/10 px-3 py-2 justify-center items-center flex-wrap rounded-2xl gap-1.5">
-                    <input type="text" name="email" id="email" placeholder="Email" className="border-2 border-white rounded-2xl px-2.5 py-1.5 h-14 w-96 outline-none"/>
+                    <input type="text" name="email" id="email" placeholder="Email" className="border-2 border-white rounded-2xl px-2.5 py-1.5 h-14 md:w-96 w-44 outline-none"/>
                     <button className="h-16 w-56 border-2 border-black rounded-2xl cursor-pointer bg-green-400">
                     Subscribe to news
                 </button>

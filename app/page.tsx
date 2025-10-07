@@ -9,6 +9,7 @@ import WorkingProcess from "@/component/WorkingProcess";
 import Team from "@/component/Team"
 import Image from "next/image";
 import Footer from "@/component/Footer";
+import ContactUs from "@/component/ContactUs";
 
 export default function Home() {
   return (
@@ -75,6 +76,7 @@ export default function Home() {
         <CaseStudies/>
         <WorkingProcess/>
         <Team />
+        <ContactUs/>
         <Footer/>
       </main>
     </div>
